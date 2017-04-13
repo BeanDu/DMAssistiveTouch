@@ -1,0 +1,16 @@
+PODS:
+  - DMAssistiveTouch (0.1.0)
+
+DEPENDENCIES:
+  - DMAssistiveTouch (from `../`)
+
+EXTERNAL SOURCES:
+  DMAssistiveTouch:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DMAssistiveTouch: 231259f9887e986b0b74adca2e9178064d38374f
+
+PODFILE CHECKSUM: 85f52f220b3cd1bc988c580f4ffa744cb1d1cfff
+
+COCOAPODS: 1.2.1

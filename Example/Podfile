@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DMAssistiveTouch_Tests' do
+  pod 'DMAssistiveTouch', :path => '../'
+  
+  
+end
